@@ -1,26 +1,25 @@
 ## Hi there 👋
 
-<!--
-**dasha-kuzmina69/dasha-kuzmina69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://vk.com/biggn0m" target="_blank">
+    <img src="https://cdn.simpleicons.org/vk/0077FF" width="36" height="36" alt="VK">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/biggn0m" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="36" height="36" alt="Telegram">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Daria.
+- I am studying Computer Science and Information Technology at MAI
 
-Я студент из Москвы.
+---
 
-## 🔭 Мои навыки
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 💬 Do you have any questions for me? Look for me in the social networks above
+Languages and tools:
 
-## 📈 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true)
+## Development environments that I use:
+
+
