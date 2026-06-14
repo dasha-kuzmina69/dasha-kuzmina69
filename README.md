@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠️ Tech Stack
 
-- **Languages:** Python, С++, 
-- **Frameworks:** React, Node.js, Django
-- **Databases:** PostgreSQL
-- **Tools:** Docker, Kubernetes, AWS
+Я студент из Москвы.
+
+## 🔭 Мои навыки
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📈 GitHub Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true)
