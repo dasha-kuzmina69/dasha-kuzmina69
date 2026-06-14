@@ -13,7 +13,7 @@
 ---
 
 ## Hi, I'm Daria.
-- I am studying Computer Science and Information Technology at MAI<img src="https://mai.ru/press/brand/" width="20" height="20">
+- I'm a first-year student studying computer science and information technology at MAI.<img src="https://mai.ru/press/brand/" width="20" height="20">
 
 ---
 
