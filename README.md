@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, there 👋
 
 <p align="left">
   <a href="https://vk.com/biggn0m" target="_blank">
