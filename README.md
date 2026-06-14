@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🛠️ Tech Stack
+
+- **Languages:** Python, С++, 
+- **Frameworks:** React, Node.js, Django
+- **Databases:** PostgreSQL
+- **Tools:** Docker, Kubernetes, AWS
